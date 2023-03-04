@@ -141,6 +141,8 @@ add other awesome Kurds, including you!
 - [Zhir Taha](https://github.com/zhirtaha)
 - [Mohammad Hassan](https://mohammadhassan.me): Flutter, Dart, JavaScript, React, Node, Express, MongoDB, CSS, HTML
 - [Yaqub Naqib](https://github.com/Yaqub-naqeb): JavaScript, React, Next, Java, PHP 
+- [Shajwan Namiq](https://github.com/rageofkurd): React, Next, Java, JavaScript
+
 
 ## UI/UX
 
